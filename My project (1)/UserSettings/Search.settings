@@ -14,7 +14,7 @@ scopes = {
 	"last_search.110DEAF1" = ""
 	"OpenInspectorPreview.110DEAF1" = "0"
 	"currentGroup.110DEAF1" = "scene"
-	"last_search.310DEAF1" = ""
+	"last_search.310DEAF1" = "Incr"
 	"OpenInspectorPreview.310DEAF1" = "0"
 	"currentGroup.310DEAF1" = "all"
 }
@@ -88,6 +88,8 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"Incr"
+	"Incremental"
 	"ap"
 	"s"
 	"e"
